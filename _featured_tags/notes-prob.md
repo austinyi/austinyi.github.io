@@ -4,5 +4,5 @@ title: Probability
 slug: probability
 category: notes
 menu: false
-order: 4
+order: 1
 ---

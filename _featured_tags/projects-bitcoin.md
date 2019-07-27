@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: Data
-slug: data
-category: devlog
+title: Bitcoin
+slug: bitcoin
+category: projects
 menu: false
-order: 2
+order: 1
 ---

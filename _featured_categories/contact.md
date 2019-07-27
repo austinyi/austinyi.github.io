@@ -1,11 +1,10 @@
 ---
 layout: list
 title: Contact
-slug: contact
+slug: Contact
 menu: true
-submenu: true
+submenu: false
 order: 8
 description: >
-  Contact method
-
+  Contact
 ---

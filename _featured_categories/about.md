@@ -2,7 +2,7 @@
 layout: list
 title: About me
 slug: aboutme
-menu: true
+menu: false
 submenu: false
 order: 4
 description: >

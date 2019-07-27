@@ -13,20 +13,21 @@ url:                 https://austinyi.github.io
 baseurl:             ""
 
 # A very short description of your page
-tagline:             Test
+tagline:             qwer
 
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
-  desc
+  qwer
+
 # This should be the same author as first entry in `_data/authors.yml`
 author:
   name:              austinyi
   email:             austinyi@snu.ac.kr
 
 # Fallback image and color
-#image:               /assets/img/nap.jpg
-#color:               '#4f86aa'
+image:               /assets/img/nap.jpg
+color:               '#4f86aa'
 
 # The font used for headings. Expects a string that is a valid CSS font-family value.
 font_heading:        "'Lato', 'Sans-serif'"
@@ -43,7 +44,7 @@ google_fonts:        Lato
 
 # Set your Google Analytics id to receive `pageview` events.
 # To remove Google Anaylics from your page, remove the line below.
-
+#google_analytics:    UA-92346434-1
 
 # Setting a disqus shortname will enable the comment section on pages with `comments: true` in the front matter
 disqus_shortname:    austinyi
