@@ -1,0 +1,16 @@
+# main links links
+main:
+  - title: "Notes"
+    url: /notes/
+
+  - title: "Projects"
+    url: /projects/
+
+  - title: "Teaching"
+    url: /teaching/
+
+  - title: "Contact"
+    url: /contact/
+
+  - title: "CV"
+    url: /cv/
