@@ -9,12 +9,12 @@ redirect_from:
 
 Feel free to email me at austinyi (at) snu (dot) ac (dot) kr.
 
-Department of Statistics, Seoul National University
-1, Gwanak-ro, Gwanak-gu
+Department of Statistics, Seoul National University  
+1, Gwanak-ro, Gwanak-gu  
 Seoul 08826, Republic of Korea
 
-Ph: +82 2 2147 4294
+Ph: +82 2 2147 4294  
 Fax: +82 2 2147 3910
 
-Email: austinyi@snu.ac.kr
+Email: austinyi@snu.ac.kr  
 Web: https://austinyi.github.io/
