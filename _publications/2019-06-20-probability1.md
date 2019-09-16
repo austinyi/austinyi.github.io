@@ -8,7 +8,7 @@ paperurl:
 
 ---
 
-Hi Hi Hi!
-[Download paper here](http://austinyi.github.io/files/paper2.pdf)
-[Download paper here](http://austinyi.github.io/files/paper1.pdf)
-[Download paper here](http://austinyi.github.io/files/paper3.pdf)
+Hi Hi Hi!  
+[Download paper here](http://austinyi.github.io/files/paper2.pdf)  
+[Download paper here](http://austinyi.github.io/files/paper1.pdf)  
+[Download paper here](http://austinyi.github.io/files/paper3.pdf)  
