@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "austinyi"
+title                    : "Bongsoo Yi (Austin Yi)"
 title_separator          : "-"
-name                     : &name "bong"
-description              : &description "personal description"
+name                     : &name "Bongsoo Yi"
+description              : &description "Seoul National University(SNU) Dept. of Statistics"
 url                      : https://austinyi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "austinyi/austinyi.github.io"
@@ -81,10 +81,10 @@ author:
   name             : "bong"
   avatar           : "bong.jpeg"
   bio              :
-  location         :
+  location         : "Seoul National University"
   employer         :
   googlescholar    :
-  email            :
+  email            : "austinyi@snu.ac.kr"
   uri              :
   bitbucket        :
   codepen          :
@@ -95,7 +95,7 @@ author:
   github           : "austinyi"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "bsyi_96"
   lastfm           :
   linkedin         :
   orcid            :
