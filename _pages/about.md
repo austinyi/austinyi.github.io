@@ -15,4 +15,4 @@ My current interest includes:
 
 Currently, I am working at Songpa District Office.
 
-CV here [CV](https://austinyi.github.io/assets/CV.pdf)
+A copy of my CV is available here. [CV](https://austinyi.github.io/assets/CV.pdf)
