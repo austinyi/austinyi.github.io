@@ -9,13 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-A copy of my CV is available [here](https://austinyi.github.io/assets/CV.pdf).
+Click here to find my complete [CV](https://austinyi.github.io/assets/CV.pdf).
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* Ph.D Candidate in Statistics, Seoul National University, 2018 ~
+* B.S. in Statistics, Seoul National University, 2014 ~ 2018
+* Sejong Science High School, 2012 ~ 2014 (1 year early graduation)  
+
+* Meadow Moor Elementary School, Salt Lake City, UT, 2001 ~ 2003  
 
 Work experience
 ======
