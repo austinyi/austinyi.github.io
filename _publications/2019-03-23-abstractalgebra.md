@@ -1,7 +1,7 @@
 ---
 title: "Abstract Algebra"
 collection: notes
-permalink: /notes/2019-03-23-abstractalgebra.md
+permalink: /notes/2019-03-23-abstractalgebra
 
 date: 2019-03-23
 paperurl:
