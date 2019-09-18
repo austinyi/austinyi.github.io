@@ -8,11 +8,26 @@ redirect_from:
   - /about.html
 ---
 
+**About**  
 
-I am 공익따리
+Welcome to my site!  
+
+I am Bongsoo Yi, a first-year PhD candidate in Statistics at Seoul National University. I left for 2 years due to mandatory military service after one semester. I am currently working at Songpa District Office(Jul. 2018 - Jun. 2020 expected).
 
 My current interest includes:
 
-Currently, I am working at Songpa District Office.
 
-A copy of my CV is available here. [CV](https://austinyi.github.io/assets/CV.pdf)
+
+Outside of statistics, I enjoy playing soccer and watching soccer and baseball on TV.
+
+Click here to find my [CV](https://austinyi.github.io/assets/CV.pdf).
+
+Feel free to email me at austinyi (at) snu (dot) ac (dot) kr.
+
+
+
+
+I am interested in developing hardware system architecture based on CMOS circuit technologies.
+
+
+
