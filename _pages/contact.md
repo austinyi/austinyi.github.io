@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Feel free to contact me via email at :  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;austinyi (at) snu (dot) ac (dot) kr.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;austinyi (at) snu (dot) ac (dot) kr.  
       
 Department of Statistics, Seoul National University  
 1, Gwanak-ro, Gwanak-gu  
