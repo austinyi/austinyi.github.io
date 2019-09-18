@@ -8,7 +8,7 @@ paperurl:
 
 ---
 
-Measure theory and the theory of Lebesgue integration, Hilbert space, Banach space, Fourier transform.
+Measure theory and the theory of Lebesgue integration, signed Measures and differentiation, elements of functional analysis, Hilbert space, Banach space, L<sup>p</sup> space, Fourier transform.
 
 There are several textbooks and references that I used to study this subject, which are following.
 * Real and Complex Analysis, Walter Rudin, 1987.
