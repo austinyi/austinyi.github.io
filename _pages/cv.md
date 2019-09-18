@@ -16,7 +16,7 @@ Education
 * Ph.D Candidate in Statistics, Seoul National University (SNU), 2018 ~
 * B.S. in Statistics, Seoul National University, 2014 ~ 2018
 * Sejong Science High School, 2012 ~ 2014 (1 year early graduation)  
-* Meadow Moor Elementary School, Salt Lake City, UT, 2001 ~ 2003  
+* Meadow Moor Elementary School, Salt Lake City, Utah, USA, 2001 ~ 2003  
 
 Awards and Honors (Selected)
 ======
