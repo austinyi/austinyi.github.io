@@ -1,7 +1,7 @@
 ---
-title: "Statistics 033.019"
+title: "033.019: Statistics"
 collection: teaching
-type: "Undergraduate course"
+type: "Teaching Assistant"
 permalink: /teaching/2018-spring-teaching-1
 venue: "Department of Statistics, Seoul National University"
 date: 2018-01-01
