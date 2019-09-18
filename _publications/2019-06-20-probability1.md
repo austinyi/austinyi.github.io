@@ -13,7 +13,7 @@ Measure theory, probability spaces and random variables, various convergences of
 There are several textbooks and references that I used to study this subject, which are following.
 * Probability: Theory and Examples, R. Durrett, 2010.
 * Probability and Measures, P. Billingsley, 1995.
-* Lecture notes on Real Analysis(Graduate Stanford Math 205A), Lenya Ryzhik, 2014.
+* Lecture notes on Real Analysis (Graduate Stanford Math 205A), Lenya Ryzhik, 2014.
 
 
 
