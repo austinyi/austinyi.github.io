@@ -15,11 +15,11 @@ Education
 ======
 * Ph.D Candidate in Statistics, Seoul National University, 2018 ~
 * B.S. in Statistics, Seoul National University, 2014 ~ 2018
-* Sejong Science High School, 2012 ~ 2014 (1 year early graduation)  
+* Sejong Science High School, 2012 ~ 2014 (1 year early graduation)
 
 * Meadow Moor Elementary School, Salt Lake City, UT, 2001 ~ 2003  
 
-Work experience
+Awards and Honors (Selected)
 ======
 * Summer 2015: Research Assistant
   * Github University
