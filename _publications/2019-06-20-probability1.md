@@ -15,8 +15,9 @@ There are several textbooks and references that I used to study this subject, wh
 * Probability and Measures, P. Billingsley, 1995.
 * Lecture notes on Real Analysis (Graduate Stanford Math 205A), Lenya Ryzhik, 2014.
 
+I took this course in 2018, but since it is an essential subject, I studied again and wrote a summary by hand.
 
+[Probability Theory Ⅰ Summary](http://austinyi.github.io/files/paper2.pdf)   
 
-[Download paper here](http://austinyi.github.io/files/paper2.pdf)  
 [Download paper here](http://austinyi.github.io/files/paper1.pdf)  
 [Download paper here](http://austinyi.github.io/files/paper3.pdf)  
