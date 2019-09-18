@@ -7,8 +7,9 @@ redirect_from:
   - /wordpress/blog-posts/
 ---
 
-Feel free to email me at austinyi (at) snu (dot) ac (dot) kr.
-
+Feel free to contact me via email at:
+      austinyi (at) snu (dot) ac (dot) kr.  
+      
 Department of Statistics, Seoul National University  
 1, Gwanak-ro, Gwanak-gu  
 Seoul 08826, Republic of Korea
