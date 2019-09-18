@@ -13,12 +13,12 @@ Click here to find my complete [CV](https://austinyi.github.io/assets/CV.pdf).
 
 Education
 ======
-* Ph.D Candidate in Statistics, Seoul National University(SNU), 2018 ~
+* Ph.D Candidate in Statistics, Seoul National University (SNU), 2018 ~
 * B.S. in Statistics, Seoul National University, 2014 ~ 2018
 * Sejong Science High School, 2012 ~ 2014 (1 year early graduation)  
 * Meadow Moor Elementary School, Salt Lake City, UT, 2001 ~ 2003  
 
-Awards and Honors 
+Awards and Honors (Selected)
 ======
 * Dean's List, College of Natural Sciences, SNU (2017)
 * National Scholarship for Science and Engineering, Korea Student Aid Foundation (2016 - 2017)
