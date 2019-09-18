@@ -21,6 +21,8 @@ To strengthen the understanding of the subject, I have completed all of the lect
 
 [Probability Theory Ⅰ Summary](http://austinyi.github.io/files/paper2.pdf)   
 
+<Probability Theory 1 (326.513), Spring 2019>  
+
 [HW1](http://austinyi.github.io/files/HW1.pdf)  
 [HW2](http://austinyi.github.io/files/HW2.pdf)  
 [HW3](http://austinyi.github.io/files/HW3.pdf)  
