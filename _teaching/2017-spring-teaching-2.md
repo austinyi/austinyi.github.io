@@ -1,7 +1,7 @@
 ---
-title: "Calculus 1 033.016"
+title: "033.016: Basic Calculus 1"
 collection: teaching
-type: "Undergraduate course"
+type: "Instructor"
 permalink: /teaching/2017-spring-teaching-1
 venue: "Department of Mathematical Science, Seoul National University"
 date: 2017-01-01
