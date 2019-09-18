@@ -27,5 +27,5 @@ To strengthen the understanding of the subject, I have completed all of the lect
 [HW4](http://austinyi.github.io/files/HW4.pdf)  
 [HW5](http://austinyi.github.io/files/HW5.pdf)  
 
-[Midterm](http://austinyi.github.io/files/midterm.pdf) 
+[Midterm](http://austinyi.github.io/files/midterm.pdf)   
 [Final Exam](http://austinyi.github.io/files/final.pdf)  
