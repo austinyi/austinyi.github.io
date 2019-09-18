@@ -1,5 +1,5 @@
 ---
-title: "Probability 2 (Graduate)"
+title: "Probability Theory Ⅱ (Graduate)"
 collection: notes
 permalink: /notes/2019-12-15-probability2
 
