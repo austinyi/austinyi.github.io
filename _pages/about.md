@@ -9,7 +9,7 @@ redirect_from:
 ---
 Welcome to my site!  
 
-I am Bongsoo Yi, a first-year PhD candidate in Statistics at Seoul National University. I left for 2 years due to mandatory military service after one semester. I am currently working at Songpa District Office(Jul. 2018 - Jun. 2020 expected).  
+I am Bongsoo Yi, a first-year PhD candidate in Statistics at Seoul National University. I left for 2 years due to mandatory military service after one semester. I am currently working at Songpa District Office (Jul. 2018 ~ May. 2020 expected).  
 
 I plan to apply for a PhD program in the United States (2020 fall semester).
 
