@@ -20,7 +20,7 @@ My current interest includes:
   * Algorithm Engineering, Deep Learning
 
 Also, I am working hard and having fun strengthening my [mathematical](https://austinyi.github.io/notes/) background these days.
-Outside of statistics, I enjoy playing soccer and watching soccer and baseball on TV.
+Outside of statistics, I enjoy playing soccer and watching MLB and EPL on TV.
 
 Feel free to email me at austinyi (at) snu (dot) ac (dot) kr. A copy of my CV is available [here](https://austinyi.github.io/assets/CV.pdf).
 
