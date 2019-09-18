@@ -7,7 +7,7 @@ redirect_from:
   - /wordpress/blog-posts/
 ---
 
-Feel free to contact me via email at:
+Feel free to contact me via email at:  
       austinyi (at) snu (dot) ac (dot) kr.  
       
 Department of Statistics, Seoul National University  
