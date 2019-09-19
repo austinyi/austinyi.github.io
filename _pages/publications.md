@@ -1,9 +1,18 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Notes"
+permalink: /notes/
 author_profile: true
 ---
+
+The following are notes I have personally studied during my military service.   
+I am working hard and having fun strengthening my mathematical background these days.   
+The purpose of writing up these notes is primarily to use as a reference for myself. 
+
+Under construction…
+(Expected to be uploaded before December 2019)  
+
+(Probability Theory Ⅰ (Graduate) is currently completed)
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>

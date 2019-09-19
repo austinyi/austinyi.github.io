@@ -9,51 +9,32 @@ redirect_from:
 
 {% include base_path %}
 
+Click here to find my complete [CV](https://austinyi.github.io/assets/CV.pdf).
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D Candidate in Statistics, Seoul National University (SNU), 2018 ~
+* B.S. in Statistics, Seoul National University, 2014 ~ 2018
+* Sejong Science High School, 2012 ~ 2014 (1 year early graduation)  
+* Meadow Moor Elementary School, Salt Lake City, Utah, USA, 2001 ~ 2003  
 
-Work experience
+Awards and Honors (Selected)
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* Dean's List, College of Natural Sciences, SNU (2017)
+* National Scholarship for Science and Engineering, Korea Student Aid Foundation (2016 - 2017)
+* Full Merit Scholarship, SNU (2014 - 2015)
+* Bronze Medal (Field 1: For mathematical majors), 36th National Undergraduate Mathematics Competition (2017)
+* Grand Prize (1st place), Seoul Mathematical Olympiad (2011)
 
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Teaching Assistant for 033.019: Statistics in Department of Statistics (Spring 2018)
+* Instructor for 033.016: Basic Calculus 1 in Department of Mathematical Science (Spring 2017)
 
-Service and leadership
+Skills
 ======
-* Currently signed in to 43 different slack teams
+* Programming Languages
+  * R, Python, Java, SAS, C, Latex
+* Languages
+  * Korean (native)
+  * English (fluent, TOEFL MyBest Scores: 110/120)
