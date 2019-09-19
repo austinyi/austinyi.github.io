@@ -38,4 +38,3 @@ Skills
 * Languages
   * Korean (native)
   * English (fluent, TOEFL MyBest Scores: 110/120)
-
