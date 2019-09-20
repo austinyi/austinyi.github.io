@@ -29,3 +29,4 @@ To strengthen the understanding of the subject, I have completed all of the lect
 
 [Midterm](http://austinyi.github.io/files/midterm.pdf)   
 [Final Exam](http://austinyi.github.io/files/final.pdf)  
+[prob1](http://austinyi.github.io/files/probability1.pdf) 
