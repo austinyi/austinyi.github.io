@@ -14,13 +14,13 @@ Under construction…
 
 (Probability Theory Ⅰ (Graduate) is currently completed)
 
-[Probability 1](https://austinyi.github.io/notes/2019-06-20-probability1)
+[Probability Theory Ⅰ (Graduate) (Completed)](https://austinyi.github.io/notes/2019-06-20-probability1)
 -------------------------------------------------------------------------  
 
-[Probability 2](https://austinyi.github.io/notes/2019-12-15-probability2)  
+[Probability Theory Ⅱ (Graduate)](https://austinyi.github.io/notes/2019-12-15-probability2)  
 -------------------------------------------------------------------------  
 
-[Real analysis](https://austinyi.github.io/notes/2018-10-03-realanalysis)  
+[Real analysis (Graduate)](https://austinyi.github.io/notes/2018-10-03-realanalysis)  
 -------------------------------------------------------------------------  
 
 [Complex Analysis](https://austinyi.github.io/notes/2018-12-14-complexanalysis)  
