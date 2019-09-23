@@ -8,4 +8,5 @@ date: 2017-01-01
 location: "City, Country"
 ---
 
-Ran laboratories once a week and answered questions in person and online.
+* Instructed and supervised students in the fundamental concepts of calculus
+* Assisted students by answering all the questions in person and online
