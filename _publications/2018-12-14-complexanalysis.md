@@ -1,5 +1,5 @@
 ---
-title: "Complex Analysis"
+title: "Complex Analysis (Completed)"
 collection: notes
 permalink: /notes/2018-12-14-complexanalysis
 
@@ -15,4 +15,4 @@ There are several textbooks and references that I used to study this subject, wh
 * Complex analysis, E.M. Stein and Shakarchi, 2003.
 
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Complex Analysis Summary](http://academicpages.github.io/files/complexanalysis.pdf)
