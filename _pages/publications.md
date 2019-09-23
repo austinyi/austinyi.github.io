@@ -5,14 +5,14 @@ permalink: /notes/
 author_profile: true
 ---
 
-The following are notes I have personally studied during my military service.   
+The following are notes I have personally studied during my military service. (Jul. 2018 ~ )   
 I am working hard and having fun strengthening my mathematical background these days.   
 The purpose of writing up these notes is primarily to use as a reference for myself.
 
 Under construction…
 (Expected to be uploaded before December 2019)  
 
-(Probability Theory Ⅰ (Graduate) is currently completed)
+(Probability Theory Ⅰ (Graduate), Complex Analysis : currently completed)
 
 [Probability Theory Ⅰ (Graduate) (Completed)](https://austinyi.github.io/notes/2019-06-20-probability1)
 -------------------------------------------------------------------------  
