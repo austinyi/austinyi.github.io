@@ -23,7 +23,7 @@ Under construction…
 [Real analysis (Graduate)](https://austinyi.github.io/notes/2018-10-03-realanalysis)  
 -------------------------------------------------------------------------  
 
-[Complex Analysis](https://austinyi.github.io/notes/2018-12-14-complexanalysis)  
+[Complex Analysis (Completed)](https://austinyi.github.io/notes/2018-12-14-complexanalysis)  
 -------------------------------------------------------------------------  
 
 [Abstract Algebra](https://austinyi.github.io/notes/2019-03-23-abstractalgebra)  
