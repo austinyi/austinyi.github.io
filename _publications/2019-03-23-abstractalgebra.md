@@ -8,7 +8,7 @@ paperurl:
 
 ---
 
-Basic algebraic structures like groups, rings and fields, and their properties, factorization.
+Topics include group theory, emphasizing finite groups; ring theory, including ideals and unique factorization in polynomial and Euclidean rings; field theory, including properties and applications of finite fields.  
 
 There are few textbooks and references that I used to study this subject, which are following.
 * A first course in abstract algebra, J.B. Fraleigh, 2003.
