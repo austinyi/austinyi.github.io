@@ -10,7 +10,7 @@ I am working hard and having fun strengthening my mathematical background these 
 The purpose of writing up these notes is primarily to use as a reference for myself.   
 
 Under construction…   
-(Probability Theory Ⅰ , Complex Analysis : currently completed)   
+(Probability Theory Ⅰ , Complex Analysis, Abstract Algebra : currently completed)   
 (Expected to be uploaded before December 2019)  
 
 
@@ -26,7 +26,7 @@ Under construction…
 [Complex Analysis (Completed)](https://austinyi.github.io/notes/2018-12-14-complexanalysis)  
 -------------------------------------------------------------------------  
 
-[Abstract Algebra](https://austinyi.github.io/notes/2019-03-23-abstractalgebra)  
+[Abstract Algebra (Completed)](https://austinyi.github.io/notes/2019-03-23-abstractalgebra)  
 -------------------------------------------------------------------------  
 
 [Topology](https://austinyi.github.io/notes/2019-12-31-topology)  
