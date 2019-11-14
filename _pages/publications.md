@@ -10,7 +10,7 @@ I am working hard and having fun strengthening my mathematical background these 
 The purpose of writing up these notes is primarily to use as a reference for myself.   
 
 Under construction…   
-(Probability Theory Ⅰ , Complex Analysis, Abstract Algebra : currently completed)   
+(Probability Theory Ⅰ, Complex Analysis, Abstract Algebra : currently completed)   
 (Expected to be uploaded before December 2019)  
 
 
