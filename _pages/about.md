@@ -15,7 +15,7 @@ I plan to apply for a PhD program in the United States (2020 fall semester).
 
 My current interest includes:  
 * Statistics
-  * High dimensional Statistics, Nonparametric Statistics, Prescriptive Analysis, Statistical Machine Learning, Bayesian Statistics
+  * High dimensional Statistics, Nonparametric Statistics, Statistical Machine Learning, Bayesian Statistics
 * Computer Science
   * Algorithm Engineering, Deep Learning
 

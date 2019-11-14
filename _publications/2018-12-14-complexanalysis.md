@@ -15,4 +15,5 @@ There are several textbooks and references that I used to study this subject, wh
 * Complex analysis, E.M. Stein and Shakarchi, 2003.
 
 
-[Complex Analysis Summary](http://academicpages.github.io/files/complexanalysis.pdf)
+Click here to see my notes on Complex Analysis.  
+[Complex Analysis Summary](http://austinyi.github.io/files/complexanalysis.pdf)

@@ -8,4 +8,6 @@ date: 2018-01-01
 location: "City, Country"
 ---
 
-Ran office hours for over 80 students every week, answered questions in person and online, examined and marked assignments and exams.
+* Ran office hours for over 80 students every week
+* Helped write assignments and exams, and marked them
+* Assisted students individually with homework problems and materials they found difficult to understand
