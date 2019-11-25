@@ -9,12 +9,9 @@ The following are notes I have personally studied during my military service (Ju
 I am working hard and having fun strengthening my mathematical background these days.    
 The purpose of writing up these notes is primarily to use as a reference for myself.   
 
-Under construction…   
-(Probability Theory Ⅰ, Complex Analysis, Abstract Algebra : currently completed)   
-(Expected to be uploaded before December 2019)  
 
 
-[Probability Theory Ⅰ (Graduate) (Completed)](https://austinyi.github.io/notes/2019-06-20-probability1)
+[Probability Theory Ⅰ (Graduate)](https://austinyi.github.io/notes/2019-06-20-probability1)
 -------------------------------------------------------------------------  
 
 [Probability Theory Ⅱ (Graduate)](https://austinyi.github.io/notes/2019-12-15-probability2)  
@@ -23,10 +20,10 @@ Under construction…
 [Real analysis (Graduate)](https://austinyi.github.io/notes/2018-10-03-realanalysis)  
 -------------------------------------------------------------------------  
 
-[Complex Analysis (Completed)](https://austinyi.github.io/notes/2018-12-14-complexanalysis)  
+[Complex Analysis](https://austinyi.github.io/notes/2018-12-14-complexanalysis)  
 -------------------------------------------------------------------------  
 
-[Abstract Algebra (Completed)](https://austinyi.github.io/notes/2019-03-23-abstractalgebra)  
+[Abstract Algebra](https://austinyi.github.io/notes/2019-03-23-abstractalgebra)  
 -------------------------------------------------------------------------  
 
 [Topology](https://austinyi.github.io/notes/2019-12-31-topology)  
