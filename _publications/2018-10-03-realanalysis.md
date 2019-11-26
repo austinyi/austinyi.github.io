@@ -16,8 +16,8 @@ To strengthen the understanding of the subject, I have completed all of the lect
   
 *Math 114 Problem Sets*  
 [Problem Set 1](http://austinyi.github.io/files/problemset1.pdf)  
-[Problem Set 2](http://austinyi.github.io/files/paper2.pdf)  
-[Problem Set 3](http://austinyi.github.io/files/paper2.pdf)  
+[Problem Set 2](http://austinyi.github.io/files/problemset2.pdf)  
+[Problem Set 3](http://austinyi.github.io/files/problemset3.pdf)  
 [Problem Set 4](http://austinyi.github.io/files/paper2.pdf)  
 [Problem Set 5](http://austinyi.github.io/files/paper2.pdf)   
 
