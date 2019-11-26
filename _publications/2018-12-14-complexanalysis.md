@@ -1,5 +1,5 @@
 ---
-title: "Complex Analysis (Completed)"
+title: "Complex Analysis"
 collection: notes
 permalink: /notes/2018-12-14-complexanalysis
 
