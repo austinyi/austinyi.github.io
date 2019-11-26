@@ -1,5 +1,5 @@
 ---
-title: "Abstract Algebra (Completed)"
+title: "Abstract Algebra"
 collection: notes
 permalink: /notes/2019-03-23-abstractalgebra
 
