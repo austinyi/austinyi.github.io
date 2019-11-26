@@ -10,11 +10,6 @@ paperurl:
 
 Measure theory, probability spaces and random variables, various convergences of random variables, convergence of probability series, law of large numbers, convergence of distributions, characteristic functions, central limit theorems, law of the iterated logarithm, and stopping times.  
 
-There are several textbooks and references that I used to study this subject, which are following.
-* Probability: Theory and Examples, R. Durrett, 2010.
-* Probability and Measures, P. Billingsley, 1995.
-* Lecture notes on Real Analysis (Graduate Stanford Math 205A), Lenya Ryzhik, 2014.
-
 I took this course in 2018, but since it is an essential subject, I studied again and wrote a *summary* by hand.  
   
 [Probability Theory Ⅰ Summary](http://austinyi.github.io/files/probability1.pdf)    
@@ -30,3 +25,15 @@ To strengthen the understanding of the subject, I have completed all of the lect
 [Midterm](http://austinyi.github.io/files/midterm.pdf)   
 [Final Exam](http://austinyi.github.io/files/final.pdf)  
 
+There are several textbooks and references that I used to study this subject, which are following.
+* Probability: Theory and Examples, R. Durrett, 2010.
+* Probability and Measures, P. Billingsley, 1995.
+* Lecture notes on Real Analysis (Graduate Stanford Math 205A), Lenya Ryzhik, 2014.  
+
+<p align="center">
+
+  <img src="http://austinyi.github.io/images/durrett.jpg" style="width:200px;"/>
+          
+  <img src="http://austinyi.github.io/images/billingsley.jpg" style="width:200px;"/>
+
+</p>
