@@ -21,6 +21,6 @@ There are few textbooks and references that I used to study this subject, which 
 
 <p align="center">
 
-  <img src="http://austinyi.github.io/images/abstract.jpg" style="width:200px;"/>
+  <img src="http://austinyi.github.io/images/abstract.jpg" style="width:150px;"/>
 
 </p>
