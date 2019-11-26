@@ -17,9 +17,9 @@ There are several textbooks and references that I used to study this subject, wh
 
 <p align="center">
 
-  <img src="http://austinyi.github.io/images/durrett.jpg" style="width:200px;"/>
+  <img src="http://austinyi.github.io/images/durrett.jpg" style="width:150px;"/>
           
-  <img src="http://austinyi.github.io/images/billingsley.jpg" style="width:200px;"/>
+  <img src="http://austinyi.github.io/images/billingsley.jpg" style="width:150px;"/>
 
 </p>
 
