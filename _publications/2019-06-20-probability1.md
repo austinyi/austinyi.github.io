@@ -1,5 +1,5 @@
 ---
-title: "Probability Theory Ⅰ (Graduate) (Completed)"
+title: "Probability Theory Ⅰ (Graduate)"
 collection: notes
 permalink: /notes/2019-06-20-probability1
 
