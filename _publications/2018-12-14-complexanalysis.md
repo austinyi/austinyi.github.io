@@ -13,7 +13,7 @@ Click here to see my notes on Complex Analysis.
 [Complex Analysis Summary](http://austinyi.github.io/files/complexanalysis.pdf)  
 
 
-There are several textbooks and references that I used to study this subject, which are following.  
+There are several textbooks and references that I used to study this subject, which are the following.  
 * Complex Variables and Applications, J. Brown and R. Churchill, 9th edition.
 * Complex Analysis with Applications, R. Silverman, 2006.
 * Complex analysis, E.M. Stein and Shakarchi, 2003.
