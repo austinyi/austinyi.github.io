@@ -24,7 +24,7 @@ To strengthen the understanding of the subject, I have completed all of the lect
 [Problem Set 7](http://austinyi.github.io/files/problemset7.pdf)  
 
 
-There are several textbooks and references that I used to study this subject, which are following.
+There are several textbooks and references that I used to study this subject, which are the following.
 * Real and Complex Analysis, Walter Rudin, 1987.
 * Real Analysis, Gerald B. Folland, 1999.
 * Real Analysis, H. Royden, 4th edition.
