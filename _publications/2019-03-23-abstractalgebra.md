@@ -14,7 +14,7 @@ Click here to see my notes on Abstract Algebra.
 [Abstract Algebra Summary](http://austinyi.github.io/files/abstractalgebra.pdf)    
 
 
-There are few textbooks and references that I used to study this subject, which are following.
+There are few textbooks and references that I used to study this subject, which are the following.
 * A first course in abstract algebra, J.B. Fraleigh, 2003.
 * [Lecture notes on Modern Algebra, MIT OpenCourseWare](https://ocw.mit.edu/courses/mathematics/18-703-modern-algebra-spring-2013/lecture-notes/).
 * Abstract Algebra – Theory and Applications, Thomas W. Judson, 2015.   
