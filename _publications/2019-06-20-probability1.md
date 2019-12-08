@@ -25,7 +25,7 @@ To strengthen the understanding of the subject, I have completed all of the lect
 [Midterm](http://austinyi.github.io/files/midterm.pdf)   
 [Final Exam](http://austinyi.github.io/files/final.pdf)  
 
-There are several textbooks and references that I used to study this subject, which are following.
+There are several textbooks and references that I used to study this subject, which are the following.
 * Probability: Theory and Examples, R. Durrett, 2010.
 * Probability and Measures, P. Billingsley, 1995.
 * Lecture notes on Real Analysis (Graduate Stanford Math 205A), Lenya Ryzhik, 2014.  
