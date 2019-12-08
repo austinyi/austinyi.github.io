@@ -10,7 +10,7 @@ paperurl:
 
 Measure theory and the theory of Lebesgue integration, signed Measures and differentiation, elements of functional analysis, Hilbert space, Banach space, L<sup>p</sup> space, Fourier transform.  
 
-I audited the undergraduate course **Real Analysis (881.425)** in spring 2017 and the graduate course **Real Analysis (3341.503)** in spring 2018, both held at Seoul National University. Since it is an essential subject, I studied it again by solving the textbook problems.  
+I audited the undergraduate course **Real Analysis (881.425)** in Spring 2017 and the graduate course **Real Analysis (3341.503)** in Spring 2018, both held at Seoul National University. Since it is an essential subject, I studied it again by solving the textbook problems.  
 
 To strengthen the understanding of the subject, I have completed all of the lecture assignments from the lecture **MATH 114 Analysis II: Measure, Integration and Banach Spaces** held at **Harvard University** in Fall 2013. I would like to thank **Professor Jacob Lurie** for providing the lecture materials.  
   
