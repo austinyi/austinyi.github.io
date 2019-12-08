@@ -10,7 +10,7 @@ paperurl:
 
 Conditional probability, Martingales, Infinite divisible distribution, Markov Chains, Ergodic Theorems, Brownian Motion.  
 
-I have individually studied the graduate course Probability Theory 2 (326.516) held at Seoul National University, Fall 2019.  
+I have individually studied the graduate course **Probability Theory 2 (326.516)** held at Seoul National University, Fall 2019.  
 
 There are several textbooks and references that I used to study this subject, which are following.
 * [Probability Theory 2 Note, J.P. Kim](https://jpkimstat.files.wordpress.com/2018/11/probability-theory-ii1.pdf)  
