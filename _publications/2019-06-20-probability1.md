@@ -10,8 +10,8 @@ paperurl:
 
 Measure theory, probability spaces and random variables, various convergences of random variables, convergence of probability series, law of large numbers, convergence of distributions, characteristic functions, central limit theorems, law of the iterated logarithm, and stopping times.  
 
-I took this course in 2018, but since it is an essential subject, I studied again and wrote a *summary* by hand.  
-  
+I took this course in 2018, but since it is an essential subject, I studied again and wrote a *summary* by hand. This note is a summary of the lecture **Probability Theory 1 (326.513)** held at Seoul National University.   
+ 
 [Probability Theory Ⅰ Summary](http://austinyi.github.io/files/probability1.pdf)    
 
 To strengthen the understanding of the subject, I have completed all of the lecture assignments from the lecture **Probability Theory 1 (326.513)** held at Seoul National University in Spring 2019. Thanks to the lecturer **Prof. Johan Lim**, who provided me with class materials even though I was not a student taking the course. I also took the midterm and final exam for myself.
