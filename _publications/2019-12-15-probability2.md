@@ -12,7 +12,7 @@ Conditional probability, Martingales, Infinite divisible distribution, Markov Ch
 
 I have individually studied the graduate course **Probability Theory 2 (326.516)** held at Seoul National University, Fall 2019.  
 
-There are several textbooks and references that I used to study this subject, which are following.
+There are several textbooks and references that I used to study this subject, which are the following.
 * [Probability Theory 2 Note, J.P. Kim](https://jpkimstat.files.wordpress.com/2018/11/probability-theory-ii1.pdf)  
 This note is a summary of the lecture Probability Theory 2 (326.516) held at Seoul National University, Fall 2016. It was summarized by a Ph.D. candidate J.P. Kim in Seoul National University. Special thanks to him for providing his notes.
 * Probability: Theory and Examples, R. Durrett, 2010.
