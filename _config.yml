@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bongsoo Yi (Austin Yi)"
+title                    : "Bongsoo Yi"
 title_separator          : "-"
 name                     : &name "Your name"
 description              : &description "personal description"
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Bongsoo Yi"
-  avatar           : "bong.jpeg"
-  bio              : "Seoul National University(SNU) Department of Statistics"
-  location         : "Seoul National University"
+  avatar           : "me.jpg"
+  bio              : "University of North Carolina at Chapel Hill"
+  location         : "Chapel Hill, NC"
   employer         :
   pubmed           :
   googlescholar    :
-  email            : "austinyi@snu.ac.kr"
+  email            : "bongsoo@unc.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        : "bsyi_96"
   impactstory      : 
   lastfm           :
-  linkedin         :
+  linkedin         : "bongsoo-yi"
   orcid            :
   pinterest        :
   soundcloud       :
