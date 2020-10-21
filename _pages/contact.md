@@ -8,14 +8,15 @@ redirect_from:
 ---
 
 Feel free to contact me via email at :  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;austinyi (at) snu (dot) ac (dot) kr.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; bongsoo (at) unc (dot) edu.  
 
-Department of Statistics, Seoul National University  
-1, Gwanak-ro, Gwanak-gu  
-Seoul 08826, Republic of Korea
+Department of Statistics & Operations
+University of North Carolina at Chapel Hill
+B48 Hanes Hall
+Chapel Hill, NC 27599
 
-Phone : +82 2 2147 4294  
-Fax : +82 2 2147 3910
 
-Email : austinyi@snu.ac.kr  
+Phone : +1 (984) 302 5209 
+
+Email : bongsoo@unc.edu
 Web : https://austinyi.github.io/
