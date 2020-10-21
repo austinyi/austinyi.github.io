@@ -5,7 +5,7 @@ permalink: /notes/
 author_profile: true
 ---
 
-The following are notes I have personally studied during my military service (Jul. 2018 ~ ).  
+The following are notes I have personally studied during my military service (Jul. 2018 ~ Jun. 2020).  
 I am working hard and having fun strengthening my mathematical background these days.    
 The purpose of writing up these notes is primarily to use as a reference for myself.   
 
