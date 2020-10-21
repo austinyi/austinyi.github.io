@@ -9,7 +9,7 @@ redirect_from:
 ---
 Welcome to my site!  
 
-I am Bongsoo Yi, a first-year Statistics PhD student at the University of North Carolina at Chapel Hill. Prior to my Ph.D., I received my Bachelor's degree in Statistics from Seoul National University.
+I am Bongsoo Yi, a first-year Statistics Ph.D. student at the University of North Carolina at Chapel Hill. Prior to my Ph.D., I received my Bachelor's degree in Statistics from Seoul National University.
 
 
 My current interest includes:  
