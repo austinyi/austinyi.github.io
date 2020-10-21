@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Bongsoo Yi (Austin Yi)"
+title: "Bongsoo Yi"
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -9,18 +9,17 @@ redirect_from:
 ---
 Welcome to my site!  
 
-I am Bongsoo Yi, a first-year PhD candidate in Statistics at Seoul National University. I left for 2 years due to mandatory military service after one semester. I am currently working at Songpa District Office (Jul. 2018 ~ May. 2020 expected).  
+I am Bongsoo Yi, a first-year Statistics PhD student at the University of North Carolina at Chapel Hill. Prior to my Ph.D., I received my Bachelor's degree in Statistics from Seoul National University.
 
-I plan to apply for a PhD program in the United States (2020 fall semester).
 
 My current interest includes:  
 * Statistics
-  * High dimensional Statistics, Nonparametric Statistics, Statistical Machine Learning, Bayesian Statistics
+  * Statistical Machine Learning, Nonparametric Statistics, High dimensional Statistics, Bayesian Statistics
 * Computer Science
   * Algorithm Engineering, Deep Learning
 
 Also, I am working hard and having fun strengthening my [mathematical](https://austinyi.github.io/notes/) background these days.
 Outside of statistics, I enjoy playing soccer and watching MLB and EPL on TV.
 
-Feel free to email me at austinyi (at) snu (dot) ac (dot) kr. A copy of my CV is available [here](https://austinyi.github.io/assets/CV.pdf).
+Feel free to email me at bongsoo (at) unc (dot) edu. A copy of my CV is available [here](https://austinyi.github.io/assets/CV.pdf).
 
